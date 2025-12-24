@@ -14,8 +14,7 @@ This is a **frontend clone of Amazon's user interface** built using HTML, CSS, a
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
-- (Optional: Any CSS framework like Bootstrap, Tailwind if used)
+  
 
 
 ## How to Run
